@@ -5,7 +5,7 @@ public class Implementaion {
     public static void main(String[] args) {
       Student obj = new Student();
 
-      obj.setRollNumber(12);K
+      obj.setRollNumber(12);
       obj.setStudentId(1124);
       obj.setName("Arjun Reddy");
       obj.setAddress(" karimnagar,Telanagana ,India");
